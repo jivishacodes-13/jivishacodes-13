@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./jivisha_smooth_typewriter_banner.gif" width="100%">
+  <img src="./jivisha_smooth_typewriter_banner.gif" width="850">
 </p>
-<h3 align="center">Artificial Intelligence & Machine Learning</h3>
-
 <p align="center">
   Interested in building intelligent, data-driven solutions through AI and Machine Learning.
 </p>
