@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./jivisha_gupta_final_clean_pink_tech.gif" width="500">
+  <img src="./jivisha_gupta_final_clean_pink_tech.gif" width="100%">
 </p>
 <h3 align="center">Artificial Intelligence & Machine Learning</h3>
 <p align="center">
